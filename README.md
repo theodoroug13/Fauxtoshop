@@ -56,12 +56,24 @@ This command rotates `input.bmp` and saves the transformed image as `output.bmp`
 
 #### **Before Rotation (Input BMP):** 🖼️
 ```
-6x6 BMP Image
+⬜⬛⬜⬛⬜⬛
+⬛⬜⬛⬜⬛⬜
+⬜⬛⬜⬛⬜⬛
+⬛⬜⬛⬜⬛⬜
+⬜⬛⬜⬛⬜⬛
+⬛⬜⬛⬜⬛⬜
 ```
+
+⬇ **After Running Fauxtoshop** ⬇
 
 #### **After Rotation (Output BMP):** 🔄
 ```
-6x6 Rotated BMP Image
+⬛⬜⬛⬜⬛⬜
+⬜⬛⬜⬛⬜⬛
+⬛⬜⬛⬜⬛⬜
+⬜⬛⬜⬛⬜⬛
+⬛⬜⬛⬜⬛⬜
+⬜⬛⬜⬛⬜⬛
 ```
 
 ## 🔍 Edge Cases Considered
@@ -83,4 +95,3 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 
 **Giorgos Theodorou**
-
