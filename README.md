@@ -56,12 +56,14 @@ This command rotates `input.bmp` and saves the transformed image as `output.bmp`
 
 #### **Before Rotation (Input BMP):** 🖼️
 ```
-6x6 BMP Image
+![image](https://github.com/user-attachments/assets/84ff9c9b-373c-4f8e-87b0-9fff5ccf8c32)
+
 ```
 
 #### **After Rotation (Output BMP):** 🔄
 ```
-6x6 Rotated BMP Image
+![image](https://github.com/user-attachments/assets/c3af3814-38d9-469d-a745-27d944325941)
+
 ```
 
 ## 🔍 Edge Cases Considered
